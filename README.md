@@ -2,6 +2,8 @@
 
 This is a React.js app that allows users to search for New York Times articles. 
 
+Use the app @ https://damp-harbor-86629.herokuapp.com/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development. I will assume that you already have [Node.js](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/) installed locally. See deployment for notes on how to deploy the project on a live system.
